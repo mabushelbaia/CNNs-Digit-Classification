@@ -1,0 +1,3 @@
+# Binary classification with CNNs
+
+This notebook is a simple example of how to use Convolutional Neural Networks (CNNs) to solve a binary classification problem. In this case, we are going to use the [MINST](http://yann.lecun.com/exdb/mnist/) dataset to classify images of handwritten digits into two classes: 0 and 1 where 0 represents that the digit is less than a certain threshold and 1 represents that the digit is greater than or equal to that threshold.
